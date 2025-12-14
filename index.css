@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 8px;
+  letter-spacing: 1px;
+  
+}
+li a{
+  margin-top: -7%;
+  font-size: 20px;
+  font-weight: thin;
+  text-decoration: none;
+  color: darkmagenta;
+  transition: ease-in-out;
+  text-align: justify;
+}
+li a:hover{
+  color: mediumblue;
+}
+body{
+  background-color: cadetblue;
+}
+h1{
+  letter-spacing: 1px;
+  padding: 8px;
+  font-size: 40px;
+  font-weight: thick;
+  line-height: 35px;
+  text-align: center;
+}
+button{
+  
+}
